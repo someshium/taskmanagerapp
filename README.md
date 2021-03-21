@@ -46,7 +46,12 @@ it will install the json-server locally
 3. run `npm json-server --watch db.json --port 5000` you can specify the port number.
 4.  The mock server will start running and you can start another dev server in a new terminal by using `npm start`
 
+## Project View
 
+![image1](https://github.com/[someshium]/[taskmanagerapp]/blob/[master]/image1.png?raw=true)
+
+
+![image2](https://github.com/[someshium]/[taskmanagerapp]/blob/[master]/image2.png?raw=true)
 
 
 
