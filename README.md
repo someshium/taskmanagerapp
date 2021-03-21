@@ -48,13 +48,11 @@ it will install the json-server locally
 
 ## Project View
 
-![image1](https://github.com/[someshium]/[taskmanagerapp]/blob/[master]/image1.PNG?raw=true)
+![image1](https://github.com/someshium/taskmanagerapp/blob/master/image1.PNG
+)
 
 
-![image2](https://github.com/[someshium]/[taskmanagerapp]/blob/[master]/image2.PNG?raw=true)
-
-https://github.com/someshium/taskmanagerapp/blob/master/image1.PNG
-
-https://github.com/someshium/taskmanagerapp/blob/master/image2.PNG
+![image2](https://github.com/someshium/taskmanagerapp/blob/master/image2.PNG
+)
 
 
